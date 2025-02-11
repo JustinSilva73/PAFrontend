@@ -1,0 +1,2 @@
+socket.io-client==4.8.1
+react-router==7.1.1

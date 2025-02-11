@@ -1,0 +1,27 @@
+.promptTitle{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white
+}
+
+.textPrompt {
+    resize: none;
+}
+.EnterText-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Optional, if you want the button to be centered vertically */
+}
+.submitButton {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outputText{
+    margin-top: 100px;
+}
